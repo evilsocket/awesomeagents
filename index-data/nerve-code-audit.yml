@@ -1,0 +1,15 @@
+name: Code Audit
+description: An agent that audits the code of a project for security vulnerabilities.
+author: Simone Margaritelli <evilsocket@gmail.com>
+homepage: https://github.com/evilsocket/code-audit
+repo: https://github.com/evilsocket/code-audit
+readme: https://github.com/evilsocket/code-audit/blob/main/README.md
+installation: nerve install evilsocket/code-audit
+execute: nerve run code-audit --target-path <path-to-code>
+stack:
+  - nerve
+  - python
+categories:
+  - software-development
+  - software-security
+  - cybersecurity

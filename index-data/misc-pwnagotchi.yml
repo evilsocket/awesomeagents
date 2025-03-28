@@ -1,0 +1,25 @@
+name: Pwnagotchi
+
+description: An AI-powered agent designed for passive WiFi handshake capture using reinforcement learning, optimized for WiFi pentesting and educational purposes.
+
+author: Simone Margaritelli <evilsocket@gmail.com>
+
+homepage: https://pwnagotchi.ai
+
+repo: https://github.com/evilsocket/pwnagotchi
+
+readme: https://github.com/evilsocket/pwnagotchi/blob/master/README.md
+
+stack:
+  - python
+  - bettercap
+  - tensorflow
+  - raspberry-pi
+
+categories:
+  - pentesting
+  - wifi
+  - cybersecurity
+  - networking
+  - monitoring
+  - network-security

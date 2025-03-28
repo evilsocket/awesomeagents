@@ -1,0 +1,15 @@
+name: Changelog
+description: An agent that generates a nicely formatted markdown changelog from the changes in a git repository.
+author: Simone Margaritelli <evilsocket@gmail.com>
+homepage: https://github.com/evilsocket/changelog
+repo: https://github.com/evilsocket/changelog
+readme: https://github.com/evilsocket/changelog/blob/main/README.md
+installation: nerve install evilsocket/changelog
+execute: nerve run changelog
+stack:
+  - nerve
+  - python
+  - git
+categories:
+  - documentation
+  - software-development

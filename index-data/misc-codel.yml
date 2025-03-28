@@ -1,0 +1,13 @@
+name: Codel
+description: A fully autonomous AI agent capable of performing complex tasks and projects using terminal, browser, and editor interfaces.
+author: semanser
+homepage: https://github.com/semanser/codel
+repo: https://github.com/semanser/codel
+readme: https://github.com/semanser/codel/blob/master/README.md
+
+stack:
+  - python
+
+categories:
+  - automation
+  - software-development
