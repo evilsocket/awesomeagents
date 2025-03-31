@@ -2,7 +2,8 @@ This repository features a curated list of AI agents that are production-ready a
 
 1. The code must be open source.
 2. The agent must be easy to install and use (e.g., like [a Nerve agent](https://github.com/evilsocket/nerve)).
-3. The agent must be stable and ideally production ready.
+3. The agent must solve a specific use case - no platforms or generic agentic frameworks.
+4. The agent must be stable and ideally production ready.
 
 If the agent you’d like to add meets these requirements, simply fork this repository, create a new YAML file in the data folder, and submit a pull request.
 
