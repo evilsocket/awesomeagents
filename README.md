@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/avatar.png" alt="Awesome Agents Logo" width="200" />
+<img src="logo.png" alt="Awesome Agents Logo" width="200" />
 
 # Awesome Agents
 
 </div>
 
-This repository contains the data for the https://awesomeagents.ai/ service and website (TBA).
+This repository features a curated list of AI agents that are production-ready and easy to use hosted on [awesomeagents.ai](https://awesomeagents.ai/).
 
-If you want to add an agent to this index, fork this repo, create a new file in the index-data folder (see the other files for examples) and send a pull request.
+To add an agent to this index, please refer to the [CONTRIBUTING guidelines](CONTRIBUTING.md).

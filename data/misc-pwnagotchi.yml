@@ -19,9 +19,5 @@ stack:
   - raspberry-pi
 
 categories:
-  - pentesting
   - wifi
   - cybersecurity
-  - networking
-  - monitoring
-  - network-security

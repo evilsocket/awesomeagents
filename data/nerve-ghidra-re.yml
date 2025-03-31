@@ -6,6 +6,7 @@ homepage: https://github.com/evilsocket/ghidra-re
 repo: https://github.com/evilsocket/ghidra-re
 readme: https://github.com/evilsocket/ghidra-re/blob/main/README.md
 license: GPL-3.0
+featured: true
 
 stack:
   - nerve

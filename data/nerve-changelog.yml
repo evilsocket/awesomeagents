@@ -5,6 +5,8 @@ homepage: https://github.com/evilsocket/changelog
 repo: https://github.com/evilsocket/changelog
 readme: https://github.com/evilsocket/changelog/blob/main/README.md
 license: GPL-3.0
+image: https://raw.githubusercontent.com/evilsocket/changelog/refs/heads/main/logo.png
+featured: true
 
 stack:
   - nerve
