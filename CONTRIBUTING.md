@@ -11,6 +11,7 @@ A sample YAML file might look like this:
 
 ```yaml
 name: Name of the Agent
+# try to use max 200 characters
 description: Example agent description.
 author: Your Name <email@gmail.com>
 homepage: https://my-cool-agent.com
