@@ -6,8 +6,7 @@ homepage: https://github.com/evilsocket/ghidra-re
 repo: https://github.com/evilsocket/ghidra-re
 readme: https://github.com/evilsocket/ghidra-re/blob/main/README.md
 license: GPL-3.0
-installation: nerve install evilsocket/ghidra-re
-execute: nerve run ghidra-re
+
 stack:
   - nerve
   - python
@@ -18,3 +17,8 @@ categories:
   - reverse-engineering
   - software-security
   - cybersecurity
+
+usage:
+  setup: pip install nerve-adk
+  install: nerve install evilsocket/ghidra-re
+  run: nerve run ghidra-re

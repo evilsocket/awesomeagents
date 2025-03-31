@@ -5,8 +5,7 @@ homepage: https://github.com/evilsocket/changelog
 repo: https://github.com/evilsocket/changelog
 readme: https://github.com/evilsocket/changelog/blob/main/README.md
 license: GPL-3.0
-installation: nerve install evilsocket/changelog
-execute: nerve run changelog
+
 stack:
   - nerve
   - python
@@ -14,3 +13,8 @@ stack:
 categories:
   - documentation
   - software-development
+
+usage:
+  setup: pip install nerve-adk
+  install: nerve install evilsocket/changelog
+  run: nerve run changelog

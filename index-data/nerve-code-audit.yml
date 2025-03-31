@@ -5,8 +5,7 @@ homepage: https://github.com/evilsocket/code-audit
 repo: https://github.com/evilsocket/code-audit
 readme: https://github.com/evilsocket/code-audit/blob/main/README.md
 license: GPL-3.0
-installation: nerve install evilsocket/code-audit
-execute: nerve run code-audit --target-path <path-to-code>
+
 stack:
   - nerve
   - python
@@ -14,3 +13,8 @@ categories:
   - software-development
   - software-security
   - cybersecurity
+
+usage:
+  setup: pip install nerve-adk
+  install: nerve install evilsocket/code-audit
+  run: nerve run code-audit --target-path <path-to-code>
