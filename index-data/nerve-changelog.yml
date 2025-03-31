@@ -4,6 +4,7 @@ author: Simone Margaritelli <evilsocket@gmail.com>
 homepage: https://github.com/evilsocket/changelog
 repo: https://github.com/evilsocket/changelog
 readme: https://github.com/evilsocket/changelog/blob/main/README.md
+license: GPL-3.0
 installation: nerve install evilsocket/changelog
 execute: nerve run changelog
 stack:

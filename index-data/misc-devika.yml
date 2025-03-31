@@ -1,6 +1,8 @@
 name: Devika
 description: An Agentic AI Software Engineer that comprehends human instructions, decomposes them into steps, researches relevant information, and writes code to fulfill the given objective.
 author: stitionai
+image: https://raw.githubusercontent.com/stitionai/devika/refs/heads/main/.assets/devika-avatar.png
+license: MIT
 homepage: https://github.com/stitionai/devika
 repo: https://github.com/stitionai/devika
 readme: https://github.com/stitionai/devika/blob/main/README.md

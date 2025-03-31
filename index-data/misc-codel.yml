@@ -4,7 +4,8 @@ author: semanser
 homepage: https://github.com/semanser/codel
 repo: https://github.com/semanser/codel
 readme: https://github.com/semanser/codel/blob/master/README.md
-
+image: https://cdn.discordapp.com/icons/1221753114441420811/d7a8df6727607154f1a10d949584f9e6.webp
+license: AGPL-3.0
 stack:
   - python
 

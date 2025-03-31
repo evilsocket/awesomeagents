@@ -1,9 +1,11 @@
 name: Ghidra RE
+image: https://raw.githubusercontent.com/evilsocket/ghidra-re/refs/heads/main/image.png
 description: Use Ghidra to reverse engineer a binary with AI.
 author: Simone Margaritelli <evilsocket@gmail.com>
 homepage: https://github.com/evilsocket/ghidra-re
 repo: https://github.com/evilsocket/ghidra-re
 readme: https://github.com/evilsocket/ghidra-re/blob/main/README.md
+license: GPL-3.0
 installation: nerve install evilsocket/ghidra-re
 execute: nerve run ghidra-re
 stack:
@@ -11,6 +13,7 @@ stack:
   - python
   - ghidra
   - ghidra-mcp
+  - mcp
 categories:
   - reverse-engineering
   - software-security
