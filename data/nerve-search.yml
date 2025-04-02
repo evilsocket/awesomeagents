@@ -1,0 +1,23 @@
+name: Search
+image: https://raw.githubusercontent.com/evilsocket/search/refs/heads/main/logo.png
+description: An agent that receives a user query and generates a markdown report of the results using the Brave Search API.
+author: Simone Margaritelli <evilsocket@gmail.com>
+homepage: https://github.com/evilsocket/search
+repo: https://github.com/evilsocket/search
+readme: https://github.com/evilsocket/search/blob/main/README.md
+license: GPL-3.0
+featured: true
+
+stack:
+  - nerve
+  - python
+  - brave-search
+  - mcp
+categories:
+  - general-purpose
+  - search
+
+usage:
+  setup: pip install nerve-adk
+  install: nerve install evilsocket/search
+  run: nerve run search --query "What is the capital of France?"
