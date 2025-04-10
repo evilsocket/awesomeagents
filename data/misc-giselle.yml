@@ -1,0 +1,28 @@
+name: Giselle
+description: Create AI-driven solutions easily with an intuitive node-based interface. Design and deploy powerful AI Agents by integrating multiple LLMs and data sources seamlessly.
+author: ROUTE06, Inc. <oss@giselles.dev>
+homepage: https://giselles.ai/
+repo: https://github.com/giselles-ai/giselle
+readme: https://github.com/giselles-ai/giselle/blob/main/README.md
+license: Apache-2.0
+image: https://raw.githubusercontent.com/giselles-ai/giselle/a91417b4c4f5a3b7c5908459dc9720cc2a6b668e/docs/assets/giselle-circular-logo.png
+
+stack:
+  - typescript
+  - nextjs
+  - react-flow
+
+categories:
+  - productivity
+  - workflow
+  - no-code
+
+usage:
+  setup: |
+    # See https://github.com/giselles-ai/giselle/blob/main/CONTRIBUTING.md
+    cd apps/playground
+    touch .env.local
+    pnpm install
+  run: |
+    # See https://github.com/giselles-ai/giselle/blob/main/CONTRIBUTING.md
+    pnpm turbo dev
